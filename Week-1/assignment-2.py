@@ -1,0 +1,15 @@
+#Design a logo 
+
+print("___________________________________")
+print("|                                  |")
+print("|                                  |")
+print("|     SAFARICOM                    |")
+print("|            2243                  |")
+print("|                                  |")
+print("|                                  |")
+print("|                                  |")
+print("|                                  |")
+print("|                                  |")
+print("|                                  |")
+print("|                                  |")
+print("___________________________________")

@@ -1,0 +1,18 @@
+name=input("What is your name ?")
+print("My name is ",name)
+f_name=input("What is your first name")
+s_name=input("What is your second name")
+print("My name is ",f_name)
+print("My name is ",s_name)
+
+f_num = input("Enter the first number?")
+s_num = input("Enter the second number?")
+sum_num=int(f_num)+int(s_num) 
+print("The sum of the numbers is",sum_num) 
+#convert string into interger
+diff_num=int(f_num)-int(s_num)
+print("The difference of the numbers is",sum_num) 
+dev_num=int(f_num)/int(s_num)
+print("The dev of the numbers is",sum_num) 
+prod_num=int(f_num)*int(s_num)
+print("The product of the numbers is",sum_num) 
