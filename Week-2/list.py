@@ -27,4 +27,4 @@ for vegetable in vegetables:
 for shopping in shopping:
     print(shopping)
 
-print("My name is ",name[4] +"and my favourite fruit is " +fruits[3])
+print("My name is ",name[4] +" and my favourite fruit is " +fruits[3])
