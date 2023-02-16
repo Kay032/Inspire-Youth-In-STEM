@@ -12,7 +12,7 @@ print(name[0-3])
 fruits=['pineapples','oranges','lemons','passions','guava','kiwi','apples']
 print(fruits[0:-1])
 print(fruits[3])
-print(f"My favourite fruit is:",fruits[2].upper())
+print("My favourite fruit is:",fruits[2].upper())
 
 #Adding two lists 
 vegetables =["kales","spinsch","cabbage","managu","carrots","brocoli"]

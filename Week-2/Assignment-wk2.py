@@ -8,7 +8,7 @@ for odd_numbers in range(1,101):
 print("***The values below are even numbers***")
 for even_numbers in range(1,101):
     if(even_numbers%2 == 0):
-        print(even_numbers)
+        print(even_numbers) 
 
 #write a program to list all prime numbers from 1-100
 print("***The values below are prime numbers***")
