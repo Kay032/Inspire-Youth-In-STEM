@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 #This is a single line comment
 #write a program that calculates 16 % tax on income
-#Name : Baraka Mukiza
-# Email : barakakinyua2@gmail.com
+#Name : Bonface Kerosi
+# Email : kerosionc@gmail.com
 # 17th Feb,2023
 # File : bank.py
 

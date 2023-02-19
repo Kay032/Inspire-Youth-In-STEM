@@ -1,5 +1,4 @@
 #print sum of first 10 numbers
-from tabulate import tabulate
 
 for i in range (0,100):
     print(i)
