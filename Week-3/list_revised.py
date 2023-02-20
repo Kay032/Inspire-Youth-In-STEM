@@ -19,3 +19,5 @@ print(new_Friends)
 
 new_Friends.pop()
 print(new_Friends)
+
+#A list of sporting activity
